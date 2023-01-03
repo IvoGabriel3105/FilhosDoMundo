@@ -1,0 +1,14 @@
+.form
+{
+    border: solid;
+    width: 80%;
+    max-width:250px;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: "Helvetica", "Lucida Grande", sans-serif;
+    /*color: #000000e8;*/
+    border-radius: 10px 20px 30px;
+    font-size: 22px;
+    line-height: 1.5;
+    text-align: center;
+}
